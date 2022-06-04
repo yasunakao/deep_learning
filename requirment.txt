@@ -1,5 +1,5 @@
 streamlit==1.9.0
 torch
 torchvision
-matplotlib.pyplot
+matplotlib
 os
